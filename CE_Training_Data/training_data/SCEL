@@ -1,0 +1,15 @@
+Supercell Name: 'SCEL1_1_1_1_0_0_0' Number: 0 Volume: 1
+Supercell Transformation Matrix: 
+1 0 0
+0 1 0
+0 0 1
+Supercell Name: 'SCEL2_1_2_1_0_0_0' Number: 1 Volume: 2
+Supercell Transformation Matrix: 
+ 1  0 -1
+ 0  0  2
+ 0 -1  0
+Supercell Name: 'SCEL2_2_1_1_0_1_1' Number: 2 Volume: 2
+Supercell Transformation Matrix: 
+-1 -1  0
+ 1  0  1
+ 0  1  1
