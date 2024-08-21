@@ -1,8 +1,8 @@
 # paper_NM23072487B_NVPsolidsolution
 Supporting Data for NVP Electrode Work Published on Nature Materials NM23072487B
 
-Author: Ziliang Wang
-Email: ziliang.wang@northwestern.edu
+- Author: Ziliang Wang
+- Email: ziliang.wang@northwestern.edu
 
 # Contents:
 1) All DFT-relaxed structures corresponding to Table 2 of main manuscript.
