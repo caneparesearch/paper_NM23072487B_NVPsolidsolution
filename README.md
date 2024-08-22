@@ -4,7 +4,7 @@ Supporting Data for Manuscript: Reaching V<sub>2</sub>(PO<sub>4</sub>)<sub>3</su
 ![image](https://zenodo.org/badge/845747850.svg)
 
 - Authors: Sunkyu Park, Ziliang Wang, Kriti Choudhary, Jean-No&#xeb;l Chotard, Dany Carlier, Fran&#xe7;ois Fauth, Pieremanuele Canepa, Laurence Croguennec and Christian Masquelier
-- Please send queries to E-mails: ziliang.wang@northwestern.edu and pcanepa@uh.edu
+- Please send queries to Zilang Wang at ziliang.wang@northwestern.edu and, Piero Canepa at pcanepa@uh.edu
 
 # Contents:
 - All DFT-relaxed structures corresponding to Table 2 of the main manuscript.
