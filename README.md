@@ -1,5 +1,5 @@
 # paper_NM23072487B_NVPsolidsolution
-Supporting Data for NVP Electrode Work Published on Nature Materials NM23072487B
+Supporting Data for Manuscript Reaching V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> by Sodium Extraction from Single-Phase Na<sub>x</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> (1 &#x3c; x &#x3c; 3) Positive Electrode Materials, Nature Mater. (2024). DOI: 
 
 ![image](https://zenodo.org/badge/845747850.svg)
 
