@@ -10,4 +10,4 @@ Supporting Data for NVP Electrode Work Published on Nature Materials NM23072487B
 # Contents:
 - All DFT-relaxed structures corresponding to Table 2 of the main manuscript.
 - All training data, including a lattice model, for cluster expansion.
-- All convex hull data for Na<sub>x</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>3 electrode.
+- All convex hull data for Na<sub>x</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> electrode.
