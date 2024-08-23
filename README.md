@@ -1,8 +1,7 @@
 # paper_NM23072487B_NVPsolidsolution
-Supporting Data for Manuscript: Reaching V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> by Sodium Extraction from Single-Phase Na<sub>x</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> (1 &#x3c; x &#x3c; 3) Positive Electrode Materials, *Nature Mater.*, **issue**, page-numbers  (2024). DOI: xxxx   [![Paper](https://img.shields.io/badge/Nature Mater.-xxxx.xxx.xx-green)](https://pubs.rsc.org/en/content/articlelanding/2022/ta/d1ta09249a)
+Supporting Data for Manuscript: Reaching V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> by Sodium Extraction from Single-Phase Na<sub>x</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> (1 &#x3c; x &#x3c; 3) Positive Electrode Materials, *Nature Mater.*, **issue**, page-numbers  (2024). DOI: xxxx   [![Paper](https://img.shields.io/badge/Nat.Mater.-xxxx.xxx.xx-blue)]()
 
 ![image](https://zenodo.org/badge/845747850.svg)
-
 
 - Authors: Sunkyu Park, Ziliang Wang, Kriti Choudhary, Jean-No&#xeb;l Chotard, Dany Carlier, Fran&#xe7;ois Fauth, Pieremanuele Canepa, Laurence Croguennec and Christian Masquelier
 - Please send queries to [Zilang Wang](https://sites.google.com/site/wolvertonresearchgroup/members/ziliang-wang) at <ziliang.wang@northwestern.edu> and [Piero Canepa](https://caneparesearch.org/team/Piero-Canepa/) at <pcanepa@uh.edu>.
