@@ -7,7 +7,7 @@ Supporting Data for Manuscript: Reaching V<sub>2</sub>(PO<sub>4</sub>)<sub>3</su
 
 </h4>
 
-- Authors: Sunkyu Park $\dagger$, Ziliang Wang<sup>+</sup>, Kriti Choudhary, Jean-No&#xeb;l Chotard, Dany Carlier, Fran&#xe7;ois Fauth, Pieremanuele Canepa<sup>\*</sup>, Laurence Croguennec<sup>\*</sup> and Christian Masquelier<sup>\*</sup>
+- Authors: Sunkyu Park <sup>$\dagger$</sup>, Ziliang Wang<sup>+</sup>, Kriti Choudhary, Jean-No&#xeb;l Chotard, Dany Carlier, Fran&#xe7;ois Fauth, Pieremanuele Canepa<sup>\*</sup>, Laurence Croguennec<sup>\*</sup> and Christian Masquelier<sup>\*</sup>
 - Please send queries to [Zilang Wang](https://sites.google.com/site/wolvertonresearchgroup/members/ziliang-wang) at <ziliang.wang@northwestern.edu> and [Piero Canepa](https://caneparesearch.org/team/Piero-Canepa/) at <pcanepa@uh.edu>.
 
 # Contents:
