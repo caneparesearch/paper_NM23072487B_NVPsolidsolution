@@ -12,5 +12,5 @@ Supporting Data for Manuscript: Reaching V<sub>2</sub>(PO<sub>4</sub>)<sub>3</su
 
 # Contents:
 - DFT-relaxed structures corresponding to Table 2 of the main manuscript.
-- Training data, including a lattice model, for cluster expansion.
+- Training data, including a lattice model, for cluster expansion formalism.
 - Convex hull data for Na<sub>x</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> electrode.
