@@ -5,7 +5,7 @@ Supporting Data for Manuscript: Reaching V<sub>2</sub>(PO<sub>4</sub>)<sub>3</su
 
 <h4 align="center">
 
-[![Paper](https://img.shields.io/badge/Nature%20Mater.-xxxx-red)]() 
+[![Paper](https://img.shields.io/badge/Nature%20Mater.-xxxx-136, 8, 8)]() 
 ![image](https://zenodo.org/badge/845747850.svg)
 
 </h4>
