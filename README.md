@@ -6,7 +6,7 @@
 
 </h4>
 
-Supporting Data for Manuscript: Reaching V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> by Sodium Extraction from Single-Phase Na<sub>x</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> (1 &#x3c; x &#x3c; 3) Positive Electrode Materials, *Nature Mater.*, **issue**, page-numbers (2024). DOI: 10.1038/s41563-024-02023-7   
+Supporting Data for Manuscript: Reaching V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> by Sodium Extraction from Single-Phase Na<sub>x</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> (1 &#x3c; x &#x3c; 3) Positive Electrode Materials, *Nature Mater.*, **issue**, page-numbers (2024). DOI: [10.1038/s41563-024-02023-7](https://doi.org/10.1038/s41563-024-02023-7)   
 
 
 
