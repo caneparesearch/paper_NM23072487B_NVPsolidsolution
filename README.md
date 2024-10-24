@@ -2,7 +2,7 @@
 <h4 align="center">
 
 [![Paper](https://img.shields.io/badge/Nature%20Mater.-10.1038/s41563--024--02023--7-rgb(255,36,0))](https://doi.org/10.1038/s41563-024-02023-7) 
-![image](https://zenodo.org/badge/845747850.svg)
+![image](https://zenodo.org/badge/DOI/10.5281/zenodo.13985508.svg)
 
 </h4>
 
