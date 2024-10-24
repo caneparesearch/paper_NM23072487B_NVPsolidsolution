@@ -1,7 +1,7 @@
 # paper_NM23072487B_NVPsolidsolution
 <h4 align="center">
 
-[![Paper](https://img.shields.io/badge/Nature%20Mater.-10.1038s41563-024-02023-7-rgb(255,36,0))]() 
+[![Paper](https://img.shields.io/badge/Nature%20Mater.-[10.1038s41563-024-02023-7]-rgb(255,36,0))]() 
 ![image](https://zenodo.org/badge/845747850.svg)
 
 </h4>
